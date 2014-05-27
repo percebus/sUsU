@@ -1,0 +1,35 @@
+<!--
+    *{ margin: 0; padding: 0; }*
+
+/***** BASIC CFG ***********************/
+    body, #wrapper, #nav, #menu, #header, #text, #main, #content, #sectionContent, #debug, #sectionDebug, #footer
+    {
+        margin:  0 auto;
+        padding: 0;
+        width:   auto;
+    }
+
+    img
+    {
+        border: 0;
+    }
+/*
+        #wrapper{}
+*/
+     /*********** <HTML5> *************************/
+            header, hgroup, nav, section, aside, footer
+            {
+                display: block;
+                height:  auto;
+            }
+/*
+            #main{}
+                #content{}
+*/
+                    article, address
+                    {
+                        display: compact;
+                        height:  auto;
+                    }
+     /*********** </HTML5> ***********************/
+-->-->
